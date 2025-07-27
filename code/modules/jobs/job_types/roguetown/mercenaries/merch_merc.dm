@@ -131,6 +131,7 @@
 		H.mind.adjust_skillrank(/datum/skill/misc/athletics, 4, TRUE)
 		H.mind.adjust_skillrank(/datum/skill/misc/swimming, 2, TRUE)
 		H.mind.adjust_skillrank(/datum/skill/misc/climbing, 2, TRUE)
+		neck = /obj/item/rogueweapon/knuckles
 		H.change_stat("strength", 3)//On par with monk.
 		H.change_stat("endurance", 1)
 		H.change_stat("speed", 1)

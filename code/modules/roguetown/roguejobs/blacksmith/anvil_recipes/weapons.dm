@@ -98,6 +98,11 @@
 /datum/anvil_recipe/weapons/steel
 	skill_level = 4
 
+/datum/anvil_recipe/weapons/steel/steelknuckle
+	name = "Steel Knuckle"
+	req_bar = /obj/item/ingot/steel
+	created_item = /obj/item/rogueweapon/knuckles
+
 /datum/anvil_recipe/weapons/steel/messer
 	name = "Messer"
 	req_bar = /obj/item/ingot/steel

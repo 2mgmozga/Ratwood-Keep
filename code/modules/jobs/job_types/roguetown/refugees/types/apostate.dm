@@ -231,8 +231,9 @@
 					shoes = /obj/item/clothing/shoes/roguetown/shortboots
 					armor = /obj/item/clothing/suit/roguetown/shirt/robe
 					belt = /obj/item/storage/belt/rogue/leather/rope
-					beltl = /obj/item/storage/belt/rogue/pouch/coins/poor
+					neck = /obj/item/storage/belt/rogue/pouch/coins/poor
 					backl = /obj/item/storage/backpack/rogue/backpack	
+					backpack_contents = /obj/item/rogueweapon/knuckles
 					r_hand = /obj/item/rogueweapon/woodstaff
 					H.change_stat("strength", 3)
 					H.change_stat("constitution", 1)
