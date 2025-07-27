@@ -314,9 +314,9 @@
 	attack_verb = list("punches", "clocks")
 	hitsound = list('sound/combat/hits/punch/punch_hard (1).ogg', 'sound/combat/hits/punch/punch_hard (2).ogg', 'sound/combat/hits/punch/punch_hard (3).ogg')
 	chargetime = 0
-	penfactor = 20
+	penfactor = 10
 	clickcd = 8
-	damfactor = 1.1
+	damfactor = 1.2
 	swingdelay = 0
 	icon_state = "inpunch"
 	item_d_type = "blunt"
@@ -330,7 +330,7 @@
 	penfactor = 60
 	clickcd = CLICK_CD_MELEE
 	swingdelay = 8
-	damfactor = 1.8
+	damfactor = 1.4
 	icon_state = "insmash"
 	item_d_type = "blunt"
 
