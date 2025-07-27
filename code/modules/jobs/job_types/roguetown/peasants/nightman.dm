@@ -33,6 +33,7 @@
 	beltr = /obj/item/storage/keyring/nightman
 	belt = /obj/item/storage/belt/rogue/leather
 	beltl = /obj/item/ammo_holder/quiver/bolts
+	backpack_contents = /obj/item/rogueweapon/knuckles
 	neck = /obj/item/storage/belt/rogue/pouch/coins/poor
 	backpack_contents = list(/obj/item/rogueweapon/huntingknife/idagger = 1)
 	if(H.mind)

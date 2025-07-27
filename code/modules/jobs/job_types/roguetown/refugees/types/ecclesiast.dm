@@ -220,7 +220,8 @@
 			shoes = /obj/item/clothing/shoes/roguetown/shortboots
 			armor = /obj/item/clothing/suit/roguetown/shirt/robe
 			belt = /obj/item/storage/belt/rogue/leather/rope
-			beltl = /obj/item/storage/belt/rogue/pouch/coins/poor
+			beltl = /obj/item/rogueweapon/knuckles
+			neck = /obj/item/storage/belt/rogue/pouch/coins/poor
 			backl = /obj/item/storage/backpack/rogue/backpack
 			r_hand = /obj/item/rogueweapon/woodstaff
 			H.change_stat("strength", 3)
@@ -231,3 +232,4 @@
 			ADD_TRAIT(H, TRAIT_DODGEEXPERT, TRAIT_GENERIC)
 
 	H.set_blindness(0)
+knuckles
