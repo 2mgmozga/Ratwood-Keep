@@ -303,7 +303,6 @@
 	associated_skill = /datum/skill/combat/unarmed
 	throwforce = 12
 	wdefense = 7
-	wdefense = 4.5
 	wbalance = 1
 	thrown_bclass = BCLASS_CUT	
 	anvilrepair = /datum/skill/craft/blacksmithing
@@ -328,8 +327,7 @@
 	blade_class = BCLASS_SMASH
 	attack_verb = list("smashes")
 	hitsound = list('sound/combat/hits/punch/punch_hard (1).ogg', 'sound/combat/hits/punch/punch_hard (2).ogg', 'sound/combat/hits/punch/punch_hard (3).ogg')
-	penfactor = 2
-	damfactor = 1.1
+	penfactor = 20
 	clickcd = CLICK_CD_MELEE
 	swingdelay = 8
 	damfactor = 1.8
